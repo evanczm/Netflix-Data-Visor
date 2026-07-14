@@ -47,3 +47,7 @@ The `sample_data/` folder contains fake example data. Try it out:
 
 ```bash
 python project.py sample_data
+## Demo
+
+![Netflix Data Visor Demo](demo.gif)
+
